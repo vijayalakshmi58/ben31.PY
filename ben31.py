@@ -1,3 +1,3 @@
 # ben31.PY
-ff=input()
-print(sum(len(x) for x in ff.split()))
+th=input()
+print(sum(len(z) for z in th.split()))
